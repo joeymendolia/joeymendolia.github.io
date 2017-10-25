@@ -1,0 +1,27 @@
+.openingline {
+  text-align: center;
+  font-size: 22px;
+}
+
+article {
+  text-align: left;
+}
+
+p {
+  text-align: left;
+}
+
+.byline {
+  font-family: 'Garamond';
+  font-size: 20px;
+  color: #999999;
+}
+
+footer {
+  padding: 4rem;
+  border-top: 1px solid #999999;
+  font-family: 'Garamond', sans-serif;
+  font-size: 1.125rem;
+  color: #999999;
+  text-align: center;
+}
